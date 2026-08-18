@@ -1,0 +1,14 @@
+### IntelliJ IDEA ###
+.idea/workspace.xml
+.idea/shelf/
+out/
+*.iws
+
+### Compilados Java ###
+*.class
+*.jar
+*.war
+
+### Sistema operativo ###
+.DS_Store
+Thumbs.db
